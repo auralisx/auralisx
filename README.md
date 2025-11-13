@@ -157,9 +157,3 @@
 </div>
 
 <br>
-
-<div align="center" style="margin: 15px 0;">
-  <a href="https://discord.com/users/1039343834968105020">
-    <img src="https://lanyard.cnrad.dev/api/1039343834968105020?bg=121212&idleMessage=I%20am%20cooked.&theme=dark&showDisplayName=true" alt="Discord Presence" />
-  </a>
-</div>
