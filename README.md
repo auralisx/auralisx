@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=eviluci&&style=flat" align="center" />
+<img src="https://komarev.com/ghpvc/?username=auralisx&&style=flat" align="center" />
 </div>
 <br>
 
@@ -117,15 +117,15 @@
 
 <div align="center" style="display: flex; flex-direction: column; gap: 16px; margin: 20px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=EviLuci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EviLuci&layout=compact&theme=tokyonight" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=auralisx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auralisx&layout=compact&theme=tokyonight" height="180" />
   </div>
 
   <!-- Contribution Snake -->
   <picture style="margin-top: 20px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/EviLuci/EviLuci/blob/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/auralisx/auralisx/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/auralisx/auralisx/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/auralisx/auralisx/blob/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px;" />
   </picture>
 </div>
 <br>
@@ -142,10 +142,10 @@
   <a href="https://linkedin.com/in/sujan-koju-6a7246193" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="https://www.facebook.com/EviLuci.SK" target="_blank">
+  <!-- <a href="https://www.facebook.com/auralisx.SK" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/eviluci.sk" target="_blank">
+  <a href="https://instagram.com/auralisx.sk" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /> -->
   </a>
   <a href="https://www.reddit.com/user/SujanKoju/" target="_blank">
