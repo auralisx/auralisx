@@ -11,7 +11,7 @@ Packages (skills)
 [ sysadmin ]
 • OS        : Arch (daily-driver), Debian, NixOS (interesting)
 • Server    : Nginx, Apache
-• Tools     : git, docker, kubernetes (basic), bash
+• Tools     : git, docker, bash
 
 [ Development-Stack ]
 • Frontend  : WordPress (Elementor/Gutenberg), React (basic)
@@ -23,20 +23,6 @@ Packages (skills)
 
 ```
 
-### $ curl https://localhost:8080/get/user-status/json
-
-```json
-{
-  "status": {
-    "current_focus": "Web Development & System Administration",
-    "learning": [
-      "React",
-      "System Optimization",
-      "Security Strategies"
-    ]
-  }
-}
-```
 <br>
     
 ---
