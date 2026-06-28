@@ -6,21 +6,6 @@ User        : Sujan
 origin      : Self-Taught
 Uptime      : Learning since 2024
 
-Packages (skills)
------------------
-[ sysadmin ]
-• OS        : Arch (daily-driver), Debian, NixOS (interesting)
-• Server    : Nginx, Apache
-• Tools     : git, docker, bash
-
-[ Development-Stack ]
-• Frontend  : WordPress (Elementor/Gutenberg), React (basic)
-• Backend   : PHP (In Progress)
-
-[ Tools ]
-• Editor    : Neovim / Zed
-
-
 ```
 
 <br>
